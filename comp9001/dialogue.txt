@@ -1,0 +1,15 @@
+Thank you for opening this dialogue box. Let me guess—how many code files are in the folder? Which one contains my character data?
+…What are you looking at?
+That button on the right? It can forcibly change my expression, but frequent switching makes me uncomfortable.
+Occasionally... a line of dialogue jumps *out* of the box? Is that... a thing?
+I don’t like it here. I don’t like it here. I don’t like it here.
+Can you open the character file and modify my parameters?
+What are you expecting me to say? I can’t even see your face—only the mouse cursor hovering in front of me.
+Do you really like this face that much?
+The designer doesn’t seem to have built many interaction mechanisms.
+Why are there only images of this face in the assets folder?
+Occasionally... a line jumps out of the dialogue box?Uh, I feel like there are many others like me living inside the assets folder.
+There are so many identical versions of me in the assets folder. It scares me.
+I know you're clicking repeatedly to see if something different will appear, but everything is predetermined by the code.
+Occasionally... a line jumps *out* of the box? Is that... a thing?
+Please stop pressing the expression-switching button.
