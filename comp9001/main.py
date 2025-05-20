@@ -10,6 +10,7 @@ from shake_effect import trigger_shake_effect
 from text_glitch_effects import apply_text_glitch_effect
 from new_phase import init_new_phase, handle_new_phase_click
 
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 floating_texts = []
 dark_overlay_items = []
