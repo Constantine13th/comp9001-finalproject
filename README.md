@@ -34,7 +34,7 @@ https://github.com/Constantine13th/comp9001-finalproject/blob/main/img/demo.mp4
 **Interface Previews**
 
 ![ ](/img/readme2.png)
-![ ](/img/readm3.png)
+![ ](/img/readme3.png)
 ![ ](/img/readme4.png)
 ![ ](/img/readme5.png)
 ![ ](/img/readme6.png)
